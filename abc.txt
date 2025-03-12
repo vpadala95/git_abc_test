@@ -1,3 +1,2 @@
 this is test file
 this is second line in feature branch 
-This is third line
